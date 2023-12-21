@@ -1,4 +1,4 @@
-<h1 align="center">Tech Interview Handbook</h1>
+<h1#align="center">Tech Interview Handbook</h1>
 
 <div align="center">
   <a href="https://www.techinterviewhandbook.org/">
@@ -19,9 +19,9 @@
   <img src="assets/start-reading-button.jpg" alt="Start Reading Tech Interview Handbook" />
 </a>
 
-## What is this?
+*# What is this?
 
-Not everyone has the time to do a few hundred LeetCode questions. Here are _free and curated_ technical interview preparation materials for busy engineers, brought to you by me, the author of [Blind 75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU). Over 500,000 people have benefitted from this handbook!
+Not everyone has the time to do a few hundred LeetCode questions. Here are _free and curated_ technical interview preparation materials for busy engineers, brought to you by me, the author of [Blind 75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU). Over 500,000 people have benefitted from this handbook 
 
 Besides the usual algorithm questions, other **awesome** stuff includes:
 
@@ -121,3 +121,4 @@ Support this project by becoming a sponsor. Your logo/profile picture will show 
 ## Disclaimer
 
 I am providing code in the repository to you under an open source license. Because this is my personal repository, the license you receive to my code is from me and not my employer (Meta).
+ 
